@@ -1,0 +1,40 @@
+.cen{
+     //border-style:solid;
+     border-radius:10px;
+     width:900px;
+     height:600px;
+     text-align:center;
+     margin: 0 auto;
+     padding:10px;
+}
+ .cen-in{
+     margin:0 auto;
+     margin-top:30px;
+     background-color:white;
+     height:400px;
+     width:900px;
+     border-radius: 11px;
+     padding:50px;
+}
+ .mar{
+     margin:10px;
+}
+ .heading{
+     font-size: 60px;
+     color:white;
+}
+ body{
+     background-color:#E74C3C;
+}
+ .footer {
+     color:white;
+}
+ a:hover{
+     color:#CBCBCB;
+     text-decoration:none;
+     font-style:bold;
+     opacity: .93;
+}
+ #quote{
+  font-style: italic;
+ }
