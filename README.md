@@ -1,5 +1,6 @@
 # QuoteGen
 This application generates random quotes and also allows you to directly post them on twitter.
+It is created with simple HTML,CSS and JS.
 
 ![ScreenShot](Screenshot.JPG)
 
