@@ -1,5 +1,5 @@
 var check=0;
-var x=1;
+var check2=1;
   $(document).ready(function() {
       function getNewQuote() {
           $.ajax({
@@ -57,10 +57,10 @@ var x=1;
           });
       }
       document.getElementById('nextq').addEventListener('click', function() {
-          if(check==1 || x==1)
+          if(check==1 || check2==1)
           { check=0;
             getNewQuote();
-            x=0;
+            check2=0;
           }
 
       });
